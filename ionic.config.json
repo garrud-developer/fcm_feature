@@ -1,5 +1,7 @@
 {
   "name": "fcm_feature",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
